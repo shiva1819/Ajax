@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wraper{
+    
+}
+#mainHeader{
+    /* padding: 10px; */
+    box-sizing: border-box;
+}
+#subWrap{
+ width: 75%; /* 1024px; */
+ margin: auto;
+ border-bottom: 1px solid #ccc;
+}
+#mainLogo{
+    width: 100px;
+}
+#mainLogo img{
+    width: 100%;
+}
+#mainNav{
+    width: 700px;
+}
+#mainNav ul li{
+    list-style: none;
+    float: left;
+    padding: 10px;
+}
+#mainNav ul li a{
+    text-decoration: none;
+    color: rgb(10, 73, 54);
+}

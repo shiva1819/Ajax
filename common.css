@@ -1,0 +1,15 @@
+.fL{
+    float: left;
+}
+.fR{
+    float: right;
+}
+.bgMenu{
+    background: rgb(96, 168, 146);
+}
+
+
+
+.clearfix{
+    clear: both;
+}
